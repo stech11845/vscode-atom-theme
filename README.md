@@ -1,2 +1,4 @@
+<div align="center">
+
 # vscode-atom-theme
-Adds an Atom-like theme to VS Code.
+<i>Adds an Atom-like theme to VS Code.</i>
